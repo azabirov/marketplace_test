@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { TextField, Button, Box, Typography, Grid, Paper, Card, CardContent } from '@mui/material';
+import { TextField, Button, Box, Typography, Grid, Card, CardContent } from '@mui/material';
 import { SalesData } from '../App';
 
 interface SettingsTabProps {
